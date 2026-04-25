@@ -1,0 +1,131 @@
+html {
+    scroll-behavior: smooth;
+}
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* main section */
+.navbar {
+    background-color: rgb(48, 48, 52);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px;
+    position: fixed;
+    width: 100%;
+    top: 0%;
+}
+.nav-links {
+    color: white;
+    list-style: none;
+    display: flex;
+}
+.My_profile {
+    font-size: 12px;
+    color: white;
+}
+.nav-links li {
+    margin-left: 20px;
+}
+.nav-links a {
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+}
+.nav-links a:hover {
+    color: #10f1f1;
+}
+/* home section  */
+.main {
+    background-color: #345a6a;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 120px 80px;
+    font-size: 22px;
+}
+.home-img img {
+    width: 300px;
+}
+/* abt. section  */
+.about {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    padding: 120px;
+}
+.about-img img {
+    width: 300px;
+}
+.about-text {
+    margin-left: 50px;
+}
+.about-text h2 {
+    margin-bottom: 15px;
+}
+.about-text p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+/* button */
+.button {
+    display: inline-block;
+    background-color: #345a6a;
+    color: white;
+    padding: 20px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.button:hover {
+    background-color: #122238;
+}
+/* skills */
+.myskills {
+    background-color: white;
+    padding: 120px;
+    text-align: center;
+}
+.myskills ul {
+    list-style: none;
+}
+.myskills li {
+    background-color: #f2f2f2;
+    margin: 10px auto;
+    padding: 20px;
+    width: 250px;
+    border-radius: 5px;
+}
+.myprojects {
+    padding: 120px;
+    text-align: center;
+}
+.project-blocks {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-top: 25px;
+}
+.block {
+    background-color: #f2f2f2;
+    padding: 25px;
+    width: 250px;
+    border-radius: 5px;
+}
+
+.mycontact {
+    background-color: #345a6a;
+    color: white;
+    text-align: center;
+    padding: 90px;
+}
+footer {
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
