@@ -1,9 +1,6 @@
 My Portfolio
 A professional online portfolio showcasing my work, skills, and projects.
 
-About Me
-I am a BE 3rd year student specializing in Artificial Intelligence and Machine Learning. I have a strong interest in software development with excellent problem-solving skills focused on data-driven decision-making and real-world AI applications.
-
 Features
 Responsive Design - Clean and modern layout built with HTML and CSS
 Smooth Navigation - Fixed navbar with smooth scrolling between sections
@@ -30,12 +27,15 @@ My portfolio/
     └── Photography work (separate gallery)
 
 How to Use
-Open portfolio.html in your web browser
+Open index.html in your web browser
 Navigate through sections using the navbar
 Download resume from the About section
 Contact information provided at the bottom
 Contact
 Email: patilp3719@gmail.com
 Phone: +91 XXXXXXXXXX
-LinkedIn: pvp108@linkedIn.com
+LinkedIn: pvp108@LinkediIn.com
 Last Updated: February 2026
+
+###VISIT
+https://patilp3719-cpu.github.io/Sample_Protfolio/
